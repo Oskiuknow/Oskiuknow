@@ -52,7 +52,7 @@ I'm Oscar 🇨🇷, a Data Analyst & aspiring Data Scientist passionate about tr
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](TU-LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/oscar-torres-b96a67220/)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white)](TU-PORTAFOLIO)
 
