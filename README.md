@@ -56,7 +56,7 @@ I'm Oscar 🇨🇷, a Data Analyst & aspiring Data Scientist passionate about tr
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white)](TU-PORTAFOLIO)
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:TUEMAIL)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](oscarcrc09@gmail.com)
 
 ---
 
