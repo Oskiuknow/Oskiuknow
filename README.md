@@ -1,11 +1,11 @@
 # Hey, Nice to see you 👋
-I'm Oscar 🇨🇷, a Data Analyst & aspiring Data Scientist passionate about transforming data into insights 📊
+I'm Oscar Torres Isaba, a Data Analyst & aspiring Data Scientist passionate about transforming data into insights 📊
 
 ## 🚀 About Me
 
 💼 Currently building my skills in Data Analytics, Business Intelligence, and Data Science  
 📊 Focused on SQL, Python, Power BI, and Data Visualization  
-🌱 Currently learning Machine Learning, Data Engineering, and Advanced Analytics  
+🌱 Currently learning SQL, Power BI, and Advanced Analytics  
 📈 Interested in Data Analytics, Predictive Modeling, and Business Intelligence  
 🔍 Looking for opportunities in Data Analytics / BI / Data Science  
 💬 Feel free to talk with me about SQL, dashboards, Python, Power BI, and data projects  
